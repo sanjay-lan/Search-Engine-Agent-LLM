@@ -1,0 +1,14 @@
+langchain
+langchain-community
+bs4
+langchain-text-splitters
+sentence_transformers
+langchain_huggingface
+langchain_chroma
+streamlit
+langchain_groq
+langserve
+langchain-ollama
+arxiv
+wikipedia
+duckduckgo_search
